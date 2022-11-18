@@ -1,0 +1,39 @@
+/******************************************************************************
+Guia de estilo
+
+*******************************************************************************/
+
+definiciones de variables:
+
+
+//donde se declara
+*Siempre tiene que estar declaradas al principio del codigo.
+
+// como elegir un nombre
+*Descriptivas. (tiene que hacer referencia al dato que aloja, sin acortar el nombre usado)
+*Singular. (salvo que la usemos como contador o acumulador)
+*Sustantivo.
+
+*Por cada variable debo hacer una declaracion(definir).
+*Debo elegir el tipo segun el dato que va a alojar.
+*EL nombre debe respetar lowerCamelCase(primera letra en minuscula y la primer letra de cada proxima en mayuscula).
+*El nombre no debe contener espacios.
+*El nombre nunca debe empezar con un numero.
+*Si queremos usar un numero debe escribirse en letras.
+
+*Al finalizar cada sentencia con un punto y coma.
+
+los cuatro para escribir codigo:
+
+1.Definir variables.
+2.Definir Entradas.
+3.Realizar los procesos.
+4.Mostrar las salidas.
+
+
+
+
+
+
+
+
